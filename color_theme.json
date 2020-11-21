@@ -41,8 +41,8 @@
         "Calculation": {
             "BackgroundOdd": "fafafa",
             "BackgroundEven": "ffffff",
-            "EmptyBox": "c4c4c4",
-            "EmptyBoxNeeded": "00857f",
+            "EmptyBox": "ffb200",
+            "EmptyBoxNeeded": "ffb200",
             "TrigoAndComplexForeground": "ff000c"
         },
         "Code": {
@@ -57,14 +57,14 @@
             "GutterViewBackground": "E4E6E7"
         },
         "Probability": {
-            "Curve": "00857f",
+            "Curve": "ffb200",
             "CellBorder": "ececec",
             "HistogramBar": "d9d9d9"
         },
         "Statistics": {
-            "Box": "00857f",
+            "Box": "ffb200",
             "BoxVerticalLine": "d9d9d9",
-            "Selected": "00857f",
+            "Selected": "ffb200",
             "NotSelected": "f5f5f5"
         },
         "Graph": {
@@ -89,11 +89,11 @@
         "Button": {
             "Background": "e6e6e6",
             "BackgroundSelected": "c9c9c9",
-            "BackgroundSelectedHighContrast": "00b2b0",
+            "BackgroundSelectedHighContrast": "ffb200",
             "Border": "adadad",
             "RowBorder": "d9d9d9",
             "BorderOut": "f5f5f5",
-            "Shadow": "003833",
+            "Shadow": "8d5a00",
             "Text": "000000"
         },
         "Tab": {
