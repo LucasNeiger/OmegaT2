@@ -97,28 +97,28 @@
             "Text": "ffffff"
         },
         "Tab": {
-            "Background": "4a4a4a",
-            "BackgroundSelected": "757575",
-            "BackgroundActive": "fafafa",
-            "BackgroundSelectedAndActive": "e3e3e3",
+            "Background": "737373",
+            "BackgroundSelected": "818181",
+            "BackgroundActive": "595959",
+            "BackgroundSelectedAndActive": "595959",
             "Text": "ffffff",
-            "TextActive": "000000"
+            "TextActive": "ffffff"
         },
         "SubTab": {
-            "Background": "e0e0e0",
-            "BackgroundSelected": "d1d1d1",
-            "Text": "000000"
+            "Background": "595959",
+            "BackgroundSelected": "737373",
+            "Text": "ffffff"
         },
         "Banner": {
-            "FirstBackground": "4a4a4a",
-            "FirstBorder": "4a4a4a",
+            "FirstBackground": "818181",
+            "FirstBorder": "818181",
             "FirstText": "ffffff",
-            "FirstVariantBackground": "4a4a4a",
-            "FirstVariantBorder": "fafafa",
+            "FirstVariantBackground": "818181",
+            "FirstVariantBorder": "595959",
             "FirstVariantText": "ffffff",
-            "SecondBackground": "e0e0e0",
-            "SecondBorder": "fafafa",
-            "SecondText": "000000"
+            "SecondBackground": "595959",
+            "SecondBorder": "818181",
+            "SecondText": "ffffff"
         },
         "Home": {
             "Background": "ffffff",
