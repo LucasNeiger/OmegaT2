@@ -2,9 +2,9 @@
     "name": "Omega.T_Dark",
     "icons": "color_theme",
     "colors": {
-        "PrimaryText": "0033BF",
-        "SecondaryText": "B8B8B8",
-        "AccentText": "b90000",
+        "PrimaryText": "ffffff",
+        "SecondaryText": "ffffff",
+        "AccentText": "ffffff",
         "ApproximateSignText": "0033BF",
         "ApproximateExpressionText": "0033BF",
         "Background": {
@@ -46,29 +46,29 @@
             "TrigoAndComplexForeground": "737373"
         },
         "Code": {
-            "Background": "ffffff",
-            "BackgroundSelected": "e0e0e0",
-            "Text": "000000",
+            "Background": "595959",
+            "BackgroundSelected": "818181",
+            "Text": "ffffff",
             "Comment": "999988",
             "Number": "009999",
             "Keyword": "ff000c",
             "Operator": "d73a49",
             "String": "032f62",
-            "GutterViewBackground": "E4E6E7"
+            "GutterViewBackground": "595959"
         },
         "Probability": {
-            "Curve": "ffb200",
-            "CellBorder": "ececec",
-            "HistogramBar": "d9d9d9"
+            "Curve": "0033BF",
+            "CellBorder": "595959",
+            "HistogramBar": "818181"
         },
         "Statistics": {
-            "Box": "ffb200",
-            "BoxVerticalLine": "d9d9d9",
-            "Selected": "ffb200",
-            "NotSelected": "f5f5f5"
+            "Box": "0033BF",
+            "BoxVerticalLine": "818181",
+            "Selected": "0033BF",
+            "NotSelected": "595959"
         },
         "Graph": {
-            "Tangent": "595959"
+            "Tangent": "737373"
         },
         "SubMenu": {
             "Background": "e0e0e0",
