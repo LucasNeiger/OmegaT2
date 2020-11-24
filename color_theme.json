@@ -30,20 +30,20 @@
             "Low": "FF0300"
         },
         "ScrollBar": {
-            "Foreground": "4a4a4a",
-            "Background": "d9d9d9"
+            "Foreground": "B8B8B8",
+            "Background": "818181"
         },
         "Control": {
-            "": "e00000",
-            "Enabled": "00dc2a",
-            "Disabled": "d00000"
+            "": "B8B8B8",
+            "Enabled": "818181",
+            "Disabled": "818181"
         },
         "Calculation": {
-            "BackgroundOdd": "fafafa",
-            "BackgroundEven": "ffffff",
-            "EmptyBox": "ffb200",
-            "EmptyBoxNeeded": "ffb200",
-            "TrigoAndComplexForeground": "ff000c"
+            "BackgroundOdd": "818181",
+            "BackgroundEven": "595959",
+            "EmptyBox": "737373",
+            "EmptyBoxNeeded": "737373",
+            "TrigoAndComplexForeground": "737373"
         },
         "Code": {
             "Background": "ffffff",
