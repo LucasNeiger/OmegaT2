@@ -1,16 +1,16 @@
 {
-    "name": "OmegaT",
+    "name": "Omega.T_Dark",
     "icons": "color_theme",
     "colors": {
         "PrimaryText": "000000",
         "SecondaryText": "6e6e6e",
         "AccentText": "b90000",
-        "ApproximateSignText": "595959",
-        "ApproximateExpressionText": "595959",
+        "ApproximateSignText": "818181",
+        "ApproximateExpressionText": "818181",
         "Background": {
-            "Hard": "ffffff",
-            "Apps": "fafafa",
-            "AppsSecondary": "f0f0f0"
+            "Hard": "595959",
+            "Apps": "818181",
+            "AppsSecondary": "737373"
         },
         "Toolbar": {
             "": "ffb200",
