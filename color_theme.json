@@ -121,17 +121,17 @@
             "SecondText": "ffffff"
         },
         "Home": {
-            "Background": "ffffff",
-            "CellBackground": "ffffff",
-            "CellBackgroundActive": "4a4a4a",
-            "CellText": "000000",
+            "Background": "595959",
+            "CellBackground": "595959",
+            "CellBackgroundActive": "737373",
+            "CellText": "ffffff",
             "CellTextActive": "ffffff",
-            "CellTextExternal": "ffb200",
-            "CellTextExternalActive": "ffea00"
+            "CellTextExternal": "0033BF",
+            "CellTextExternalActive": "0033BF"
         },
         "Atom": {
-            "Unknown": "eeeeee",
-            "Text": "000000",
+            "Unknown": "595959",
+            "Text": "ffffff",
             "AlkaliMetal": "ffaa00",
             "AlkaliEarthMetal": "f6f200",
             "Lanthanide": "ffaa8b",
