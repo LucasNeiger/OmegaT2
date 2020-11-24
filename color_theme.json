@@ -71,30 +71,30 @@
             "Tangent": "737373"
         },
         "SubMenu": {
-            "Background": "e0e0e0",
-            "Border": "fafafa",
-            "Text": "000000"
+            "Background": "595959",
+            "Border": "818181",
+            "Text": "ffffff"
         },
         "Toolbox": {
-            "HeaderBackground": "4a4a4a",
-            "HeaderText": "ffffff",
-            "HeaderBorder": "4a4a4a",
-            "Background": "000000"
+            "HeaderBackground": "818181",
+            "HeaderText": "595959",
+            "HeaderBorder": "818181",
+            "Background": "f5f5f5"
         },
         "List": {
-            "CellBackground": "ffffff",
-            "CellBackgroundSelected": "e0e0e0",
-            "CellBorder": "ededef"
+            "CellBackground": "595959",
+            "CellBackgroundSelected": "818181",
+            "CellBorder": "737373"
         },
         "Button": {
-            "Background": "e6e6e6",
-            "BackgroundSelected": "c9c9c9",
-            "BackgroundSelectedHighContrast": "ffb200",
-            "Border": "adadad",
-            "RowBorder": "d9d9d9",
-            "BorderOut": "f5f5f5",
+            "Background": "737373",
+            "BackgroundSelected": "818181",
+            "BackgroundSelectedHighContrast": "0033BF",
+            "Border": "818181",
+            "RowBorder": "737373",
+            "BorderOut": "595959",
             "Shadow": "8d5a00",
-            "Text": "000000"
+            "Text": "ffffff"
         },
         "Tab": {
             "Background": "4a4a4a",
