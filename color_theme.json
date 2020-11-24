@@ -2,30 +2,30 @@
     "name": "Omega.T_Dark",
     "icons": "color_theme",
     "colors": {
-        "PrimaryText": "000000",
-        "SecondaryText": "6e6e6e",
+        "PrimaryText": "0033BF",
+        "SecondaryText": "B8B8B8",
         "AccentText": "b90000",
-        "ApproximateSignText": "818181",
-        "ApproximateExpressionText": "818181",
+        "ApproximateSignText": "0033BF",
+        "ApproximateExpressionText": "0033BF",
         "Background": {
             "Hard": "595959",
             "Apps": "818181",
             "AppsSecondary": "737373"
         },
         "Toolbar": {
-            "": "ffb200",
-            "Text": "ffffff"
+            "": "0033BF",
+            "Text": "B8B8B8"
         },
         "ExpressionInput": {
-            "Background": "e0e0e0",
-            "Border": "d9d9d9"
+            "Background": "B8B8B8",
+            "Border": "818181"
         },
         "Grid": {
-            "PrimaryLine": "d9d9d9",
+            "PrimaryLine": "818181",
             "SecondaryLine": "f5f5f5"
         },
         "Battery": {
-            "": "ffffff",
+            "": "07EF00",
             "InCharge": "07EF00",
             "Low": "FF0300"
         },
