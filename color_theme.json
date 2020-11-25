@@ -1,5 +1,5 @@
 {
-    "name": "OmegaT",
+    "name": "Omega.T",
     "icons": "color_theme",
     "colors": {
         "PrimaryText": "000000",
@@ -13,7 +13,7 @@
             "AppsSecondary": "f0f0f0"
         },
         "Toolbar": {
-            "": "ffb200",
+            "": "818181",
             "Text": "ffffff"
         },
         "ExpressionInput": {
@@ -25,8 +25,8 @@
             "SecondaryLine": "f5f5f5"
         },
         "Battery": {
-            "": "ffffff",
-            "InCharge": "07EF00",
+            "": "07ef00",
+            "InCharge": "fff200",
             "Low": "FF0300"
         },
         "ScrollBar": {
@@ -41,8 +41,8 @@
         "Calculation": {
             "BackgroundOdd": "fafafa",
             "BackgroundEven": "ffffff",
-            "EmptyBox": "ffb200",
-            "EmptyBoxNeeded": "ffb200",
+            "EmptyBox": "818181",
+            "EmptyBoxNeeded": "818181",
             "TrigoAndComplexForeground": "ff000c"
         },
         "Code": {
@@ -57,14 +57,14 @@
             "GutterViewBackground": "E4E6E7"
         },
         "Probability": {
-            "Curve": "ffb200",
+            "Curve": "818181",
             "CellBorder": "ececec",
             "HistogramBar": "d9d9d9"
         },
         "Statistics": {
-            "Box": "ffb200",
+            "Box": "818181",
             "BoxVerticalLine": "d9d9d9",
-            "Selected": "ffb200",
+            "Selected": "818181",
             "NotSelected": "f5f5f5"
         },
         "Graph": {
@@ -89,7 +89,7 @@
         "Button": {
             "Background": "e6e6e6",
             "BackgroundSelected": "c9c9c9",
-            "BackgroundSelectedHighContrast": "ffb200",
+            "BackgroundSelectedHighContrast": "818181",
             "Border": "adadad",
             "RowBorder": "d9d9d9",
             "BorderOut": "f5f5f5",
@@ -126,8 +126,8 @@
             "CellBackgroundActive": "4a4a4a",
             "CellText": "000000",
             "CellTextActive": "ffffff",
-            "CellTextExternal": "ffb200",
-            "CellTextExternalActive": "ffea00"
+            "CellTextExternal": "818181",
+            "CellTextExternalActive": "737373"
         },
         "Atom": {
             "Unknown": "eeeeee",
